@@ -1,0 +1,13 @@
+# OCR outputs and temporary rendered pages
+*.txt
+*.hocr
+*.pdf
+pages/
+output/
+work/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
