@@ -296,3 +296,11 @@ This is content selection, not a way to remove an AI provider's upload restricti
 ---
 
 This repository is a practical guide, not a guarantee of OCR accuracy or AI-platform acceptance. Verify commands and package names against the documentation for your operating system and software versions.
+
+## License
+
+The documentation and original written materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt these materials, including for commercial purposes, provided you comply with the license terms and give appropriate attribution.
+
+Unless otherwise stated, this license does not cover third-party software, trademarks, or materials identified as belonging to other rights holders.
